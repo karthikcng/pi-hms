@@ -1,6 +1,5 @@
 import React from "react";
 import { Patient1 } from "../../NavBar/Patient1";
-import "bootswatch/dist/spacelab/bootstrap.min.css";
 
 export const Patient = () => {
   return (
