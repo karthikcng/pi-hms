@@ -1,7 +1,7 @@
 import React from "react";
-import "./patient1.css";
+import "./Inpatient1.css";
 
-export const Patient1 = () => {
+export const InPatient1 = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg " data-bs-theme="light">

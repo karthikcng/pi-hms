@@ -5,8 +5,8 @@ export const Patient = () => {
   return (
     <div>
       <Patient1 />
-      <div className="mt-5">
-        <div className="container">
+      <div className="mt-1">
+        <div className="container1">
           <div className="add_btn mt-2 mb-2">
             <table class="table">
               <thead>
