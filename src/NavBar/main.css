@@ -51,22 +51,16 @@
   color: white;
 }
 
-
 .rightcontainer {
   flex: 1;
   margin: 0px;
 }
-   
-  
-  
-  .rightcontainer {
-    flex: 1;
-    margin: 50px;
-background-color: #f4f6f9;
-border-radius: 20px;
-width: 100%;
-height: 140%;
-  }
-  
-  
->>>>>>> 64f45c986d2b441676da01293e2042318a1df72a
+
+.rightcontainer {
+  flex: 1;
+  margin: 50px;
+  background-color: #f4f6f9;
+  border-radius: 20px;
+  width: 100%;
+  height: 140%;
+}
